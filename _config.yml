@@ -1,6 +1,5 @@
 title: Subhrajit Sain (ANW)
-theme: minimal-mistakes-jekyll
 description: Official Github Pages page for ANormalWintrovert (ANW) or Subhrajit Sain
 author: Subhrajit Sain
-baseurl: "/about" # The subpath of your site, e.g. /blog
-url: "https://subhrajitsain.github.io" # The base hostname & protocol for your site
+baseurl: "/landing-page" # The subpath of your site, e.g. /blog
+url: "https://subhrajitsain.github.io/landing-page" # The base hostname & protocol for your site
